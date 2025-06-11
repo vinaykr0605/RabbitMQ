@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RabbitReceiver1",
+    "\\RabbitReceiver2",
+    "\\RabbitSender"
+  ],
+  "SelectedNode": "\\RabbitSender\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

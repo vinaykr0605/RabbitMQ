@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+7Qo8I4Gqf4Ms9bEPWrgStkTQbZ29UB1kLqEMPg2l3Bb6Nqfe9Bato+OzemsomUypq0NczYwqPCAPt1lNyEH4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinay.kuppur\\OneDrive - lightnwonder\\Desktop\\My Notes\\RabbitMQ\\RabbitMQ.Producer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinay.kuppur\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\vinay.kuppur\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\vinay.kuppur\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\vinay.kuppur\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
